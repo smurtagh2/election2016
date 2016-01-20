@@ -9,6 +9,7 @@
   "author": "Shane Murtagh",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.7.1",
     "express": "^4.13.3",
     "nodemon": "^1.8.1"
   }

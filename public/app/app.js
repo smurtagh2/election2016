@@ -1,0 +1,1 @@
+angular.module('election2016App', ['electionCtrl', 'ngSanitize', 'app.routes', 'electionService'])
