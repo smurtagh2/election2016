@@ -1,0 +1,14 @@
+{
+  "name": "election_app",
+  "version": "1.0.0",
+  "description": "An app the makes available information on all of the candidate's for the Irish general election 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shane Murtagh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
